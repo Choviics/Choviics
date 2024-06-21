@@ -28,6 +28,7 @@ I have also developed an application that translates TSV files from a game🎮 u
   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Latex](https://camo.githubusercontent.com/e9e239179df81c16fe006b23767d5c02f39b567ee48659832a5ce29089dd986c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c617465782d2532333030383038302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465)
 
 - **Frameworks**:
 
