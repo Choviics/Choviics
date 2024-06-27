@@ -29,7 +29,7 @@ I have also developed an application that translates TSV files from a game🎮 u
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Latex](https://camo.githubusercontent.com/e9e239179df81c16fe006b23767d5c02f39b567ee48659832a5ce29089dd986c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c617465782d2532333030383038302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465)
 
-- **Frameworks**:
+- **Frameworks and libraries**:
 
   ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![Sckikitlearn](https://camo.githubusercontent.com/d7eb681a1d19819ff9caeee4e3b0b1748da0b97af47e2084ca3d5e8302aec8a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
