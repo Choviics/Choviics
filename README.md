@@ -8,7 +8,7 @@
 
   ## About me
 <p>
-Hello, nice to meet you! My name is Vicente Córdova, and I am currently in my final year at Andrés Bello University👨‍🎓. I am from Chile and I am 23 years old. Throughout my academic career, I have developed projects in machine learning🤖 and data analysis📊, and I have gained experience in backend web development. Additionally, I am very proud to have completed a project aimed at helping students at Andrés Bello University learn about <a href="https://doi.org/10.60483/UNAB/EJTDDS">data structures in code</a>. This project allows them to understand what each line of code does and how it affects the data, providing them with valuable tools for their professional future.📝💡
+Hello, nice to meet you! My name is Vicente Córdova, and I am currently in my final year at Andrés Bello University👨‍🎓. I am from Chile and I am 24 years old. Throughout my academic career, I have developed projects in machine learning🤖 and data analysis📊, and I have gained experience in backend web development. Additionally, I am very proud to have completed a project aimed at helping students at Andrés Bello University learn about <a href="https://doi.org/10.60483/UNAB/EJTDDS">data structures in code</a>. This project allows them to understand what each line of code does and how it affects the data, providing them with valuable tools for their professional future.📝💡
 
 I have also developed an application that translates TSV files from a game🎮 using the DeepL API, and I have published a Spanish version of the game on <a href="https://github.com/Ublyudok-kun/DAL_FANSUB">GitHub</a> along with an installer for these translated files.
  </p>
