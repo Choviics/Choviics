@@ -35,8 +35,8 @@ I’ve also developed an application that uses the DeepL API to translate TSV fi
 - **BackEnd**:
 
     ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-    ![NestJS](https://img.shields.io/badge/nest-%233F4F75.svg?style=for-the-badge&logo=nest&logoColor=white)
-    ![ExpressJS](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+    ![NestJS](https://img.shields.io/badge/NestJS-%233F4F75.svg?style=for-the-badge&logo=nest&logoColor=white)
+    ![ExpressJS](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
       ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)
 
 - **FronEnd**:
