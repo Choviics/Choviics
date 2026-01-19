@@ -60,7 +60,7 @@ I’ve also developed an application that uses the DeepL API to translate TSV fi
 - **Cloud & Hosting**:
 
   ![FireBase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase)
 
 - **Version Controll & CI/CD**:
