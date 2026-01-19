@@ -18,6 +18,8 @@ I’ve also developed an application that uses the DeepL API to translate TSV fi
   
 ## Experience with
   - 📊 Data Science
+  - 🛠️ Data Engineering
+  - 📈 Data Analysis
   - 🤖 Machine Learning
   - 💻 Software
 
